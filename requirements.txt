@@ -1,0 +1,7 @@
+flask
+flask_restful
+pymysql
+pyOpenSSL==19.0.0
+Flask-Login==0.4.1
+requests==2.21.0
+oauthlib==3.0.1
